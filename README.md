@@ -17,8 +17,8 @@ Este repositório foi criado para armazenar as atividades práticas de **HTML** 
 | 03              |[Atividade 03](https://herbsterdev.github.io/Atividade-3-WEB-I---HTML/)                                        | `<h1>`, ..., `<h6>`                                   |
 | 04              |[Atividade 04](https://herbsterdev.github.io/Atividade-4-WEB-I---HTML/)                                        | `<p>`, `<b>`, `<i>`                                   |
 | 05              |[Atividade 05](https://herbsterdev.github.io/Atividade-5-WEB-I---HTML/)                                        |`<ol>`, `<li>`                                         |
-| 06              |[Atividade 06](https://herbsterdev.github.io/Atividade-6-WEB-I---HTML/)                                        |`<ol>`, `<li>`                                                       |
-| 07              |          | |
+| 06              |[Atividade 06](https://herbsterdev.github.io/Atividade-6-WEB-I---HTML/)                                        |`<ol>`, `<li>`                                         |             
+| 07              |[Atividade 07](https://herbsterdev.github.io/Atividade-7-WEB-I---HTML/)                                        |`<ul>`, `<li>`                                         |
 | 08              |          | |
 | 09              |          | |
 | 10              |          | |
