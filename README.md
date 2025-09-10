@@ -25,4 +25,4 @@ Este repositório foi criado para armazenar as atividades práticas de **HTML** 
 | 11              |[Atividade 11](https://herbsterdev.github.io/Atividade-11-WEB-I---HTML/)                                       |`<figure>`, `<figcaption>`                             |
 | 12              |[Atividade 12](https://herbsterdev.github.io/Atividade-12-WEB-I---HTML/)                                       |`<table>`, `<thead>`, `<tbody>`, `<tfoot>`, `<tr>`, `<th>`, `<td>`|
 | 13              |[Atividade 13](https://herbsterdev.github.io/Atividade-13-WEB-I---HTML/)                                       |`<form>`, `<label>`, `<input>`, `<textarea>`, `<select>`, `<option>` |
-| 14              |          | |
+| 14              |[Atividade 14](https://herbsterdev.github.io/Atividade-14-WEB-I---HTML/)                                       |`<br>`, `<!-- -->` |
